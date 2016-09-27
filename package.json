@@ -1,0 +1,14 @@
+{
+  "name": "js-spark-testing",
+  "version": "1.0.0",
+  "description": "Testing js-spark package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Victor Dupuy",
+  "license": "ISC",
+  "dependencies": {
+    "js-spark": "^0.5.0"
+  }
+}
